@@ -1,0 +1,22 @@
+{
+  "taskName": "iditanjianbao-wechat-dev",
+  "platform": "wechatgame",
+  "name": "我在地摊淘宝开发版",
+  "outputName": "wechatgame-dev",
+  "buildPath": "project://build",
+  "debug": true,
+  "md5Cache": false,
+  "startScene": "1053b24d-1369-41fb-aff3-40ae949e6ad2",
+  "scenes": [
+    {
+      "url": "db://assets/Main.scene",
+      "uuid": "1053b24d-1369-41fb-aff3-40ae949e6ad2"
+    }
+  ],
+  "packages": {
+    "wechatgame": {
+      "appid": "wxd551def29c3fb108",
+      "orientation": "portrait"
+    }
+  }
+}

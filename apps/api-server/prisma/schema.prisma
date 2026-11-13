@@ -1,0 +1,154 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  userId    String       @id @default(uuid()) @map("user_id") @db.Uuid
+  wxOpenId  String       @unique @map("wx_open_id") @db.VarChar(128)
+  level     Int          @default(1)
+  xp        Int          @default(0)
+  wallet    UserWallet?
+  products  UserProduct[]
+  purchases ProductPurchase[]
+  purchaseCounts UserProductPurchaseCount[]
+  createdAt DateTime     @default(now()) @map("created_at") @db.Timestamptz
+
+  @@map("users")
+}
+
+model UserWallet {
+  userId         String   @id @map("user_id") @db.Uuid
+  cashBalance    Int      @default(500) @map("cash_balance")
+  voucherBalance Int      @default(0) @map("voucher_balance")
+  updatedAt      DateTime @updatedAt @map("updated_at") @db.Timestamptz
+  user           User     @relation(fields: [userId], references: [userId])
+
+  @@map("user_wallet")
+}
+
+model WalletLedger {
+  ledgerId      String   @id @default(uuid()) @map("ledger_id") @db.Uuid
+  userId        String   @map("user_id") @db.Uuid
+  currency      String   @db.VarChar(2)
+  balanceBefore Int      @map("balance_before")
+  amountDelta   Int      @map("amount_delta")
+  balanceAfter  Int      @map("balance_after")
+  reason        String   @db.VarChar(64)
+  businessId    String   @map("business_id") @db.VarChar(64)
+  requestId     String   @unique @map("request_id") @db.Uuid
+  createdAt     DateTime @default(now()) @map("created_at") @db.Timestamptz
+
+  @@index([userId, createdAt])
+  @@map("wallet_ledger")
+}
+
+model Npc {
+  npcId    String  @id @map("npc_id") @db.VarChar(8)
+  npcType  String  @map("npc_type") @db.VarChar(24)
+  name     String  @db.VarChar(64)
+  profile  Json    @default("{}")
+  isActive Boolean @default(true) @map("is_active")
+  stalls   Stall[]
+
+  @@map("npc")
+}
+
+model Stall {
+  stallId      String         @id @map("stall_id") @db.VarChar(8)
+  npcId        String         @map("npc_id") @db.VarChar(8)
+  name         String         @db.VarChar(64)
+  unlockLevel  Int            @default(1) @map("unlock_level")
+  slotCount    Int            @default(10) @map("slot_count") @db.SmallInt
+  quoteFactor  Decimal        @default(1) @map("quote_factor") @db.Decimal(4, 2)
+  minDealRatio Decimal        @default(0.5) @map("min_deal_ratio") @db.Decimal(4, 2)
+  isActive     Boolean        @default(true) @map("is_active")
+  npc          Npc            @relation(fields: [npcId], references: [npcId])
+  products     StallProduct[]
+
+  @@map("stall")
+}
+
+model ProductItem {
+  productId            String         @id @map("product_id") @db.VarChar(8)
+  configVersion        String         @map("config_version") @db.VarChar(16)
+  name                 String         @db.VarChar(64)
+  productType          String         @map("product_type") @db.VarChar(24)
+  authenticity         String         @db.VarChar(16)
+  valueBaseC           Int            @map("value_base_c")
+  perceivedAnchorC     Int            @map("perceived_anchor_c")
+  unlockLevel          Int            @default(1) @map("unlock_level")
+  maxPurchasesPerUser  Int            @map("max_purchases_per_user")
+  isActive             Boolean        @default(true) @map("is_active")
+  stallProducts        StallProduct[]
+  userProducts         UserProduct[]
+  purchases            ProductPurchase[]
+  purchaseCounts       UserProductPurchaseCount[]
+
+  @@map("product_item")
+}
+
+model StallProduct {
+  stallProductId String         @id @default(uuid()) @map("stall_product_id") @db.Uuid
+  stallId        String         @map("stall_id") @db.VarChar(8)
+  slotNo         Int            @map("slot_no") @db.SmallInt
+  productId     String         @map("product_id") @db.VarChar(8)
+  sellerAskC    Int            @map("seller_ask_c")
+  stall         Stall          @relation(fields: [stallId], references: [stallId])
+  product       ProductItem    @relation(fields: [productId], references: [productId])
+  purchases     ProductPurchase[]
+  userProducts  UserProduct[]
+
+  @@unique([stallId, slotNo])
+  @@map("stall_product")
+}
+
+model UserProductPurchaseCount {
+  userId        String     @map("user_id") @db.Uuid
+  productId     String     @map("product_id") @db.VarChar(8)
+  purchasedCount Int       @default(0) @map("purchased_count")
+  updatedAt     DateTime   @updatedAt @map("updated_at") @db.Timestamptz
+  product       ProductItem @relation(fields: [productId], references: [productId])
+  user          User        @relation(fields: [userId], references: [userId])
+
+  @@id([userId, productId])
+  @@map("user_product_purchase_count")
+}
+
+model ProductPurchase {
+  purchaseId     String       @id @default(uuid()) @map("purchase_id") @db.Uuid
+  requestId      String       @unique @map("request_id") @db.Uuid
+  userId         String       @map("user_id") @db.Uuid
+  stallProductId String       @map("stall_product_id") @db.Uuid
+  productId      String       @map("product_id") @db.VarChar(8)
+  userProductId  String       @unique @map("user_product_id") @db.Uuid
+  priceC         Int          @map("price_c")
+  purchasedAt    DateTime     @default(now()) @map("purchased_at") @db.Timestamptz
+  user           User         @relation(fields: [userId], references: [userId])
+  product        ProductItem  @relation(fields: [productId], references: [productId])
+  stallProduct   StallProduct @relation(fields: [stallProductId], references: [stallProductId])
+
+  @@map("product_purchase")
+}
+
+model UserProduct {
+  userProductId       String       @id @default(uuid()) @map("user_product_id") @db.Uuid
+  userId              String       @map("user_id") @db.Uuid
+  stallProductId      String       @map("stall_product_id") @db.Uuid
+  productId           String       @map("product_id") @db.VarChar(8)
+  productConfigVersion String      @map("product_config_version") @db.VarChar(16)
+  purchasePriceC      Int          @map("purchase_price_c")
+  appraisalStatus     String       @default("UNAPPRAISED") @map("appraisal_status") @db.VarChar(16)
+  ownershipStatus     String       @default("OWNED") @map("ownership_status") @db.VarChar(16)
+  purchasedAt         DateTime     @default(now()) @map("purchased_at") @db.Timestamptz
+  user                User         @relation(fields: [userId], references: [userId])
+  product             ProductItem  @relation(fields: [productId], references: [productId])
+  stallProduct        StallProduct @relation(fields: [stallProductId], references: [stallProductId])
+
+  @@index([userId, ownershipStatus])
+  @@map("user_product")
+}

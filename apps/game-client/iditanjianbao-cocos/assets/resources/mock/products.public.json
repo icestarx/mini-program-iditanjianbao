@@ -1,0 +1,3242 @@
+[
+  {
+    "productId": "ITM001",
+    "displayName": "青花缠枝纹小碗",
+    "observations": [
+      {
+        "observationId": "ITM001-OB1",
+        "position": "正面器型",
+        "text": "碗口略外撇，腹壁弧线连贯"
+      },
+      {
+        "observationId": "ITM001-OB2",
+        "position": "近景纹饰",
+        "text": "内壁蓝色花枝有深浅分层"
+      },
+      {
+        "observationId": "ITM001-OB3",
+        "position": "底足/器口",
+        "text": "足沿有不规则细小磕点"
+      },
+      {
+        "observationId": "ITM001-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "足墙内侧有两处旧窑砂附着"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM002",
+    "displayName": "兽纹铜镜",
+    "observations": [
+      {
+        "observationId": "ITM002-OB1",
+        "position": "器物正面",
+        "text": "镜背中央有圆钮和穿绳孔"
+      },
+      {
+        "observationId": "ITM002-OB2",
+        "position": "纹饰/铸线",
+        "text": "两只回首兽之间有卷云纹"
+      },
+      {
+        "observationId": "ITM002-OB3",
+        "position": "边缘磨损",
+        "text": "镜缘局部较薄但没有后焊圈"
+      },
+      {
+        "observationId": "ITM002-OB4",
+        "position": "背面或连接部",
+        "text": "镜钮孔内壁与背纹磨耗相互连贯"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM003",
+    "displayName": "寿山石印章",
+    "observations": [
+      {
+        "observationId": "ITM003-OB1",
+        "position": "正面轮廓",
+        "text": "印石侧面留有一行细小边款"
+      },
+      {
+        "observationId": "ITM003-OB2",
+        "position": "雕刻局部",
+        "text": "印面四字篆文排列紧密"
+      },
+      {
+        "observationId": "ITM003-OB3",
+        "position": "侧面透光/结构",
+        "text": "石角有一道贯入表面的天然色筋"
+      },
+      {
+        "observationId": "ITM003-OB4",
+        "position": "背面加工痕",
+        "text": "阴刻转角可见断续的手工进刀痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM004",
+    "displayName": "釉里红小罐",
+    "observations": [
+      {
+        "observationId": "ITM004-OB1",
+        "position": "正面器型",
+        "text": "小罐鼓腹、短颈、圈足"
+      },
+      {
+        "observationId": "ITM004-OB2",
+        "position": "近景纹饰",
+        "text": "红色花枝部分隐在透明釉下"
+      },
+      {
+        "observationId": "ITM004-OB3",
+        "position": "底足/器口",
+        "text": "红纹局部浓淡不齐"
+      },
+      {
+        "observationId": "ITM004-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "圈足露胎处有少量粘砂"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM005",
+    "displayName": "雕花银簪",
+    "observations": [
+      {
+        "observationId": "ITM005-OB1",
+        "position": "器物正面",
+        "text": "银簪头饰有连续卷草和花叶"
+      },
+      {
+        "observationId": "ITM005-OB2",
+        "position": "纹饰/铸线",
+        "text": "簪针中段有使用弯痕"
+      },
+      {
+        "observationId": "ITM005-OB3",
+        "position": "边缘磨损",
+        "text": "花叶背面有细小錾刻起收"
+      },
+      {
+        "observationId": "ITM005-OB4",
+        "position": "背面或连接部",
+        "text": "焊点位置与簪身氧化色泽相接"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM006",
+    "displayName": "山水纹铜笔筒",
+    "observations": [
+      {
+        "observationId": "ITM006-OB1",
+        "position": "器物正面",
+        "text": "圆筒口沿有细密平整修口"
+      },
+      {
+        "observationId": "ITM006-OB2",
+        "position": "纹饰/铸线",
+        "text": "外壁刻山石、松树和行舟"
+      },
+      {
+        "observationId": "ITM006-OB3",
+        "position": "边缘磨损",
+        "text": "筒底留有旧楷书短款"
+      },
+      {
+        "observationId": "ITM006-OB4",
+        "position": "背面或连接部",
+        "text": "山水纹转折处刀路深浅有变化"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM007",
+    "displayName": "旧纪念铜币",
+    "observations": [
+      {
+        "observationId": "ITM007-OB1",
+        "position": "器物正面",
+        "text": "币面是纪念主题而非古钱方孔"
+      },
+      {
+        "observationId": "ITM007-OB2",
+        "position": "纹饰/铸线",
+        "text": "边缘有局部光滑的流通碰磨"
+      },
+      {
+        "observationId": "ITM007-OB3",
+        "position": "边缘磨损",
+        "text": "币背印有约定俗成的纪念年款"
+      },
+      {
+        "observationId": "ITM007-OB4",
+        "position": "背面或连接部",
+        "text": "币径与厚度明显小于古铜钱串"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM008",
+    "displayName": "七十年代搪瓷茶缸",
+    "observations": [
+      {
+        "observationId": "ITM008-OB1",
+        "position": "正面器型",
+        "text": "杯口有一圈深色金属包边"
+      },
+      {
+        "observationId": "ITM008-OB2",
+        "position": "近景纹饰",
+        "text": "内外搪瓷均有小磕釉"
+      },
+      {
+        "observationId": "ITM008-OB3",
+        "position": "底足/器口",
+        "text": "杯身印着退色的宣传字样"
+      },
+      {
+        "observationId": "ITM008-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部有不整齐的长期放置磨痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM009",
+    "displayName": "八十年代机械闹钟",
+    "observations": [
+      {
+        "observationId": "ITM009-OB1",
+        "position": "器物正面",
+        "text": "闹钟为双铃机械结构"
+      },
+      {
+        "observationId": "ITM009-OB2",
+        "position": "纹饰/铸线",
+        "text": "背部发条旋钮有指腹打磨"
+      },
+      {
+        "observationId": "ITM009-OB3",
+        "position": "边缘磨损",
+        "text": "表盘数字有微黄纸色"
+      },
+      {
+        "observationId": "ITM009-OB4",
+        "position": "背面或连接部",
+        "text": "机芯发条未见电子电池仓"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM010",
+    "displayName": "老式胶片相机",
+    "observations": [
+      {
+        "observationId": "ITM010-OB1",
+        "position": "器物正面",
+        "text": "镜头前圈有机械光圈刻度"
+      },
+      {
+        "observationId": "ITM010-OB2",
+        "position": "纹饰/铸线",
+        "text": "机身有卷片杆与胶片仓"
+      },
+      {
+        "observationId": "ITM010-OB3",
+        "position": "边缘磨损",
+        "text": "背盖合页位置反复磨亮"
+      },
+      {
+        "observationId": "ITM010-OB4",
+        "position": "背面或连接部",
+        "text": "机身未见即时成像纸出口"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM011",
+    "displayName": "粮票册",
+    "observations": [
+      {
+        "observationId": "ITM011-OB1",
+        "position": "整件正面",
+        "text": "册页装订孔被反复翻动"
+      },
+      {
+        "observationId": "ITM011-OB2",
+        "position": "局部文字/编号",
+        "text": "票面有不同面额印字"
+      },
+      {
+        "observationId": "ITM011-OB3",
+        "position": "纸边/印色",
+        "text": "部分票页留有真实使用折痕"
+      },
+      {
+        "observationId": "ITM011-OB4",
+        "position": "背面或装订处",
+        "text": "后补的一页纸色明显偏白"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM012",
+    "displayName": "老邮票集",
+    "observations": [
+      {
+        "observationId": "ITM012-OB1",
+        "position": "整件正面",
+        "text": "邮票册内票面印有不同题材"
+      },
+      {
+        "observationId": "ITM012-OB2",
+        "position": "局部文字/编号",
+        "text": "几枚邮票有齿孔缺损"
+      },
+      {
+        "observationId": "ITM012-OB3",
+        "position": "纸边/印色",
+        "text": "一页有清晰邮戳日期"
+      },
+      {
+        "observationId": "ITM012-OB4",
+        "position": "背面或装订处",
+        "text": "部分邮票背胶发黄但未全部一致"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM013",
+    "displayName": "机械缝纫机梭芯盒",
+    "observations": [
+      {
+        "observationId": "ITM013-OB1",
+        "position": "器物正面",
+        "text": "小铁盒内放三枚梭芯"
+      },
+      {
+        "observationId": "ITM013-OB2",
+        "position": "纹饰/铸线",
+        "text": "梭芯中心孔径互不完全一致"
+      },
+      {
+        "observationId": "ITM013-OB3",
+        "position": "边缘磨损",
+        "text": "盒盖压印图案有轻微磨损"
+      },
+      {
+        "observationId": "ITM013-OB4",
+        "position": "背面或连接部",
+        "text": "盒底有旧机油留下的点状痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM014",
+    "displayName": "手摇电话机",
+    "observations": [
+      {
+        "observationId": "ITM014-OB1",
+        "position": "器物正面",
+        "text": "木色机座上装手摇把"
+      },
+      {
+        "observationId": "ITM014-OB2",
+        "position": "纹饰/铸线",
+        "text": "听筒线是布包或老式胶线"
+      },
+      {
+        "observationId": "ITM014-OB3",
+        "position": "边缘磨损",
+        "text": "侧面有金属接线端子"
+      },
+      {
+        "observationId": "ITM014-OB4",
+        "position": "背面或连接部",
+        "text": "铃响部件与机身结构相匹配"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM015",
+    "displayName": "老式算盘",
+    "observations": [
+      {
+        "observationId": "ITM015-OB1",
+        "position": "整件正面",
+        "text": "算盘为木框竹杆结构"
+      },
+      {
+        "observationId": "ITM015-OB2",
+        "position": "细部/纹样",
+        "text": "算珠表面局部被手指磨亮"
+      },
+      {
+        "observationId": "ITM015-OB3",
+        "position": "边角/接缝",
+        "text": "木框角为旧式榫接"
+      },
+      {
+        "observationId": "ITM015-OB4",
+        "position": "背面/底部",
+        "text": "底面一端有手写主人记号"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM016",
+    "displayName": "旧铁皮饼干盒",
+    "observations": [
+      {
+        "observationId": "ITM016-OB1",
+        "position": "器物正面",
+        "text": "铁皮盒有彩色糕点商标"
+      },
+      {
+        "observationId": "ITM016-OB2",
+        "position": "纹饰/铸线",
+        "text": "卷边折角处掉漆"
+      },
+      {
+        "observationId": "ITM016-OB3",
+        "position": "边缘磨损",
+        "text": "铰链松动而未被换新"
+      },
+      {
+        "observationId": "ITM016-OB4",
+        "position": "背面或连接部",
+        "text": "内壁留有糖油污渍的浅印"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM017",
+    "displayName": "八十年代磁带随身听",
+    "observations": [
+      {
+        "observationId": "ITM017-OB1",
+        "position": "器物正面",
+        "text": "随身听面板带播放与倒带键"
+      },
+      {
+        "observationId": "ITM017-OB2",
+        "position": "纹饰/铸线",
+        "text": "透明窗能看到磁带轮"
+      },
+      {
+        "observationId": "ITM017-OB3",
+        "position": "边缘磨损",
+        "text": "电池仓弹簧有轻微锈点"
+      },
+      {
+        "observationId": "ITM017-OB4",
+        "position": "背面或连接部",
+        "text": "耳机插孔周围有反复插拔痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM018",
+    "displayName": "老式暖水瓶外壳",
+    "observations": [
+      {
+        "observationId": "ITM018-OB1",
+        "position": "器物正面",
+        "text": "外壳有提梁和花纹铁皮"
+      },
+      {
+        "observationId": "ITM018-OB2",
+        "position": "纹饰/铸线",
+        "text": "上口缺少内层玻璃瓶胆"
+      },
+      {
+        "observationId": "ITM018-OB3",
+        "position": "边缘磨损",
+        "text": "底部螺口存在旧修理印记"
+      },
+      {
+        "observationId": "ITM018-OB4",
+        "position": "背面或连接部",
+        "text": "提梁连接处包漆已磨去"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM019",
+    "displayName": "怀旧游戏机",
+    "observations": [
+      {
+        "observationId": "ITM019-OB1",
+        "position": "整体外观",
+        "text": "掌上游戏机为塑料单色屏"
+      },
+      {
+        "observationId": "ITM019-OB2",
+        "position": "标记/铭牌",
+        "text": "按钮按压处有油光"
+      },
+      {
+        "observationId": "ITM019-OB3",
+        "position": "接口/边缘",
+        "text": "背面电池盖型号与机身一致"
+      },
+      {
+        "observationId": "ITM019-OB4",
+        "position": "背面螺丝/结构",
+        "text": "屏幕角落有使用划痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM020",
+    "displayName": "旧双喜搪瓷脸盆",
+    "observations": [
+      {
+        "observationId": "ITM020-OB1",
+        "position": "正面器型",
+        "text": "盆沿红字双喜略有脱色"
+      },
+      {
+        "observationId": "ITM020-OB2",
+        "position": "近景纹饰",
+        "text": "沿口缺釉露出铁基"
+      },
+      {
+        "observationId": "ITM020-OB3",
+        "position": "底足/器口",
+        "text": "背面有浅色水垢圈"
+      },
+      {
+        "observationId": "ITM020-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部放置面有环状擦痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM021",
+    "displayName": "老式电风扇",
+    "observations": [
+      {
+        "observationId": "ITM021-OB1",
+        "position": "器物正面",
+        "text": "风扇带金属防护网"
+      },
+      {
+        "observationId": "ITM021-OB2",
+        "position": "纹饰/铸线",
+        "text": "扇头摇头齿轮仍在"
+      },
+      {
+        "observationId": "ITM021-OB3",
+        "position": "边缘磨损",
+        "text": "机身铭牌上有额定电压"
+      },
+      {
+        "observationId": "ITM021-OB4",
+        "position": "背面或连接部",
+        "text": "扇叶与底座的塑料颜色略有偏差"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM022",
+    "displayName": "手工竹编提篮",
+    "observations": [
+      {
+        "observationId": "ITM022-OB1",
+        "position": "整件正面",
+        "text": "竹篮手柄与篮身是分段编织"
+      },
+      {
+        "observationId": "ITM022-OB2",
+        "position": "细部/纹样",
+        "text": "篮底竹篾磨得偏平"
+      },
+      {
+        "observationId": "ITM022-OB3",
+        "position": "边角/接缝",
+        "text": "部分细篾经过旧修补"
+      },
+      {
+        "observationId": "ITM022-OB4",
+        "position": "背面/底部",
+        "text": "没有喷塑成型接头"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM023",
+    "displayName": "旧木制铅笔盒",
+    "observations": [
+      {
+        "observationId": "ITM023-OB1",
+        "position": "整件正面",
+        "text": "木铅笔盒为滑盖结构"
+      },
+      {
+        "observationId": "ITM023-OB2",
+        "position": "细部/纹样",
+        "text": "盒角有磕碰造成的浅凹"
+      },
+      {
+        "observationId": "ITM023-OB3",
+        "position": "边角/接缝",
+        "text": "底面刻有儿童名字"
+      },
+      {
+        "observationId": "ITM023-OB4",
+        "position": "背面/底部",
+        "text": "盖板内部残留削铅笔的石墨色"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM024",
+    "displayName": "老唱片",
+    "observations": [
+      {
+        "observationId": "ITM024-OB1",
+        "position": "整件正面",
+        "text": "黑胶盘中心有纸质唱片标签"
+      },
+      {
+        "observationId": "ITM024-OB2",
+        "position": "细部/纹样",
+        "text": "标签边缘已有翘起"
+      },
+      {
+        "observationId": "ITM024-OB3",
+        "position": "边角/接缝",
+        "text": "盘面能看出不同宽度的音轨"
+      },
+      {
+        "observationId": "ITM024-OB4",
+        "position": "背面/底部",
+        "text": "内圈刻有压片编号"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM025",
+    "displayName": "铜质门牌号",
+    "observations": [
+      {
+        "observationId": "ITM025-OB1",
+        "position": "器物正面",
+        "text": "铜门牌正面是浮起的街巷号"
+      },
+      {
+        "observationId": "ITM025-OB2",
+        "position": "纹饰/铸线",
+        "text": "背面留下旧钉孔"
+      },
+      {
+        "observationId": "ITM025-OB3",
+        "position": "边缘磨损",
+        "text": "正面字口缝里有旧油漆"
+      },
+      {
+        "observationId": "ITM025-OB4",
+        "position": "背面或连接部",
+        "text": "旧钉孔周围铜色与正面不一"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM026",
+    "displayName": "老式机械怀表",
+    "observations": [
+      {
+        "observationId": "ITM026-OB1",
+        "position": "器物正面",
+        "text": "圆壳怀表带链环"
+      },
+      {
+        "observationId": "ITM026-OB2",
+        "position": "纹饰/铸线",
+        "text": "表盘内有独立秒针小圈"
+      },
+      {
+        "observationId": "ITM026-OB3",
+        "position": "边缘磨损",
+        "text": "上链轴有轻微磨损"
+      },
+      {
+        "observationId": "ITM026-OB4",
+        "position": "背面或连接部",
+        "text": "表盖合页仍保留旧连接销"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM027",
+    "displayName": "旧戏曲磁带",
+    "observations": [
+      {
+        "observationId": "ITM027-OB1",
+        "position": "整体外观",
+        "text": "卡带纸套为戏曲演员剧照"
+      },
+      {
+        "observationId": "ITM027-OB2",
+        "position": "标记/铭牌",
+        "text": "磁带绕轴两边松紧不同"
+      },
+      {
+        "observationId": "ITM027-OB3",
+        "position": "接口/边缘",
+        "text": "纸套上有节目曲目编号"
+      },
+      {
+        "observationId": "ITM027-OB4",
+        "position": "背面螺丝/结构",
+        "text": "磁头接触面有一层光亮磨带"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM028",
+    "displayName": "年代课本套装",
+    "observations": [
+      {
+        "observationId": "ITM028-OB1",
+        "position": "整件正面",
+        "text": "课本纸页印着学科课题"
+      },
+      {
+        "observationId": "ITM028-OB2",
+        "position": "局部文字/编号",
+        "text": "部分页角卷起并夹有笔记"
+      },
+      {
+        "observationId": "ITM028-OB3",
+        "position": "纸边/印色",
+        "text": "书脊装订线有反复翻折"
+      },
+      {
+        "observationId": "ITM028-OB4",
+        "position": "背面或装订处",
+        "text": "版权页有年代与版次信息"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM029",
+    "displayName": "老式打字机字模",
+    "observations": [
+      {
+        "observationId": "ITM029-OB1",
+        "position": "器物正面",
+        "text": "金属字模成套摆放在小盒"
+      },
+      {
+        "observationId": "ITM029-OB2",
+        "position": "纹饰/铸线",
+        "text": "各字模高度大致统一"
+      },
+      {
+        "observationId": "ITM029-OB3",
+        "position": "边缘磨损",
+        "text": "常用字顶端磨得更亮"
+      },
+      {
+        "observationId": "ITM029-OB4",
+        "position": "背面或连接部",
+        "text": "字模侧面残留旧油墨"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM030",
+    "displayName": "工厂纪念徽章",
+    "observations": [
+      {
+        "observationId": "ITM030-OB1",
+        "position": "器物正面",
+        "text": "徽章上有厂名缩写与年份"
+      },
+      {
+        "observationId": "ITM030-OB2",
+        "position": "纹饰/铸线",
+        "text": "别针为老式旋接结构"
+      },
+      {
+        "observationId": "ITM030-OB3",
+        "position": "边缘磨损",
+        "text": "凸起文字周围微积污"
+      },
+      {
+        "observationId": "ITM030-OB4",
+        "position": "背面或连接部",
+        "text": "背面金属镀层磨薄"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM031",
+    "displayName": "老木算盘框",
+    "observations": [
+      {
+        "observationId": "ITM031-OB1",
+        "position": "整件正面",
+        "text": "算盘只剩空木框"
+      },
+      {
+        "observationId": "ITM031-OB2",
+        "position": "细部/纹样",
+        "text": "旧竹杆孔位仍清楚"
+      },
+      {
+        "observationId": "ITM031-OB3",
+        "position": "边角/接缝",
+        "text": "四角榫接有松动"
+      },
+      {
+        "observationId": "ITM031-OB4",
+        "position": "背面/底部",
+        "text": "框木背面留有旧账铺墨迹"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM032",
+    "displayName": "七十年代照相馆相框",
+    "observations": [
+      {
+        "observationId": "ITM032-OB1",
+        "position": "正面轮廓",
+        "text": "相框由木边和薄玻璃组成"
+      },
+      {
+        "observationId": "ITM032-OB2",
+        "position": "雕刻局部",
+        "text": "背板有纸胶带封口残留"
+      },
+      {
+        "observationId": "ITM032-OB3",
+        "position": "侧面透光/结构",
+        "text": "玻璃一角有旧划纹"
+      },
+      {
+        "observationId": "ITM032-OB4",
+        "position": "背面加工痕",
+        "text": "木边有暗色的旧挂钉孔"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM033",
+    "displayName": "青花缠枝纹小碗",
+    "observations": [
+      {
+        "observationId": "ITM033-OB1",
+        "position": "正面器型",
+        "text": "碗内画缠枝纹却无落笔轻重"
+      },
+      {
+        "observationId": "ITM033-OB2",
+        "position": "近景纹饰",
+        "text": "胎底与釉层颜色偏新"
+      },
+      {
+        "observationId": "ITM033-OB3",
+        "position": "底足/器口",
+        "text": "圈足周围的褐色污渍集中成圈"
+      },
+      {
+        "observationId": "ITM033-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "足沿磕点像统一工具敲出"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM034",
+    "displayName": "兽纹铜镜",
+    "observations": [
+      {
+        "observationId": "ITM034-OB1",
+        "position": "器物正面",
+        "text": "镜背的兽纹边缘异常圆钝"
+      },
+      {
+        "observationId": "ITM034-OB2",
+        "position": "纹饰/铸线",
+        "text": "中央钮孔内壁非常光滑"
+      },
+      {
+        "observationId": "ITM034-OB3",
+        "position": "边缘磨损",
+        "text": "绿色覆盖物在凹处成团"
+      },
+      {
+        "observationId": "ITM034-OB4",
+        "position": "背面或连接部",
+        "text": "镜缘可见现代规整车削纹"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM035",
+    "displayName": "寿山石印章",
+    "observations": [
+      {
+        "observationId": "ITM035-OB1",
+        "position": "正面轮廓",
+        "text": "印面篆文排列偏呆板"
+      },
+      {
+        "observationId": "ITM035-OB2",
+        "position": "雕刻局部",
+        "text": "石质带玻璃感而少层理"
+      },
+      {
+        "observationId": "ITM035-OB3",
+        "position": "侧面透光/结构",
+        "text": "侧款刻线笔画深浅相同"
+      },
+      {
+        "observationId": "ITM035-OB4",
+        "position": "背面加工痕",
+        "text": "角部所谓旧伤覆盖着新石粉"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM036",
+    "displayName": "釉里红小罐",
+    "observations": [
+      {
+        "observationId": "ITM036-OB1",
+        "position": "正面器型",
+        "text": "红花纹浮在透明釉表面"
+      },
+      {
+        "observationId": "ITM036-OB2",
+        "position": "近景纹饰",
+        "text": "罐口边沿修整整齐"
+      },
+      {
+        "observationId": "ITM036-OB3",
+        "position": "底足/器口",
+        "text": "底足几乎没有烧成痕"
+      },
+      {
+        "observationId": "ITM036-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "罩釉折光与红纹层次不一致"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM037",
+    "displayName": "雕花银簪",
+    "observations": [
+      {
+        "observationId": "ITM037-OB1",
+        "position": "器物正面",
+        "text": "簪头为两片压模花叶"
+      },
+      {
+        "observationId": "ITM037-OB2",
+        "position": "纹饰/铸线",
+        "text": "局部磨损露出黄色金属"
+      },
+      {
+        "observationId": "ITM037-OB3",
+        "position": "边缘磨损",
+        "text": "簪针与簪头有明显新焊点"
+      },
+      {
+        "observationId": "ITM037-OB4",
+        "position": "背面或连接部",
+        "text": "所谓银黑色层只在外面一侧"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM038",
+    "displayName": "山水纹铜笔筒",
+    "observations": [
+      {
+        "observationId": "ITM038-OB1",
+        "position": "器物正面",
+        "text": "山水纹笔筒外壁线条一致"
+      },
+      {
+        "observationId": "ITM038-OB2",
+        "position": "纹饰/铸线",
+        "text": "底部有旋床同心细纹"
+      },
+      {
+        "observationId": "ITM038-OB3",
+        "position": "边缘磨损",
+        "text": "山石纹重复出现同一刀刻缺口"
+      },
+      {
+        "observationId": "ITM038-OB4",
+        "position": "背面或连接部",
+        "text": "金属表面褐色涂层可被边缘破损揭开"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM039",
+    "displayName": "双龙纹玉佩",
+    "observations": [
+      {
+        "observationId": "ITM039-OB1",
+        "position": "正面轮廓",
+        "text": "双龙玉佩发色过度均一"
+      },
+      {
+        "observationId": "ITM039-OB2",
+        "position": "雕刻局部",
+        "text": "透光处可见气泡状点"
+      },
+      {
+        "observationId": "ITM039-OB3",
+        "position": "侧面透光/结构",
+        "text": "孔眼边缘像一次浇注成型"
+      },
+      {
+        "observationId": "ITM039-OB4",
+        "position": "背面加工痕",
+        "text": "纹饰凹槽内有均匀亮光"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM040",
+    "displayName": "兽首纹壶",
+    "observations": [
+      {
+        "observationId": "ITM040-OB1",
+        "position": "器物正面",
+        "text": "兽首壶的浇口痕仍明显"
+      },
+      {
+        "observationId": "ITM040-OB2",
+        "position": "纹饰/铸线",
+        "text": "壶嘴与壶身接缝清楚"
+      },
+      {
+        "observationId": "ITM040-OB3",
+        "position": "边缘磨损",
+        "text": "兽眼左右完全镜像对称"
+      },
+      {
+        "observationId": "ITM040-OB4",
+        "position": "背面或连接部",
+        "text": "底部有现代铸造批号"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM041",
+    "displayName": "古风佛像摆件",
+    "observations": [
+      {
+        "observationId": "ITM041-OB1",
+        "position": "整件正面",
+        "text": "佛像底座边缘有模具接缝"
+      },
+      {
+        "observationId": "ITM041-OB2",
+        "position": "细部/纹样",
+        "text": "断口颜色通体一致"
+      },
+      {
+        "observationId": "ITM041-OB3",
+        "position": "边角/接缝",
+        "text": "底部有现代产地标识"
+      },
+      {
+        "observationId": "ITM041-OB4",
+        "position": "背面/底部",
+        "text": "表面仿铜锈纹只停留在外漆"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM042",
+    "displayName": "龙凤纹铜盘",
+    "observations": [
+      {
+        "observationId": "ITM042-OB1",
+        "position": "器物正面",
+        "text": "双龙盘的龙爪线条一致"
+      },
+      {
+        "observationId": "ITM042-OB2",
+        "position": "纹饰/铸线",
+        "text": "盘底有规整压铸圆痕"
+      },
+      {
+        "observationId": "ITM042-OB3",
+        "position": "边缘磨损",
+        "text": "所谓绿锈在高处同样厚"
+      },
+      {
+        "observationId": "ITM042-OB4",
+        "position": "背面或连接部",
+        "text": "背面刻有新式尺寸标识"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM043",
+    "displayName": "松鹤纹瓷盘",
+    "observations": [
+      {
+        "observationId": "ITM043-OB1",
+        "position": "正面器型",
+        "text": "瓷盘松鹤图案有印刷网点"
+      },
+      {
+        "observationId": "ITM043-OB2",
+        "position": "近景纹饰",
+        "text": "釉面平滑到几乎无笔触"
+      },
+      {
+        "observationId": "ITM043-OB3",
+        "position": "底足/器口",
+        "text": "底款字口浅且匀"
+      },
+      {
+        "observationId": "ITM043-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "盘沿金线与彩画同样鲜亮"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM044",
+    "displayName": "老款银元",
+    "observations": [
+      {
+        "observationId": "ITM044-OB1",
+        "position": "整件正面",
+        "text": "银元边齿宽窄几乎完全一致"
+      },
+      {
+        "observationId": "ITM044-OB2",
+        "position": "细部/纹样",
+        "text": "人物肖像轮廓略发虚"
+      },
+      {
+        "observationId": "ITM044-OB3",
+        "position": "边角/接缝",
+        "text": "面背图案轴向有偏移"
+      },
+      {
+        "observationId": "ITM044-OB4",
+        "position": "背面/底部",
+        "text": "边齿底部可见二次冲压毛刺"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM045",
+    "displayName": "开元通宝钱币",
+    "observations": [
+      {
+        "observationId": "ITM045-OB1",
+        "position": "器物正面",
+        "text": "方孔钱币的方孔角过于规整"
+      },
+      {
+        "observationId": "ITM045-OB2",
+        "position": "纹饰/铸线",
+        "text": "钱文四字笔画粗细相近"
+      },
+      {
+        "observationId": "ITM045-OB3",
+        "position": "边缘磨损",
+        "text": "金属表面一色灰黑"
+      },
+      {
+        "observationId": "ITM045-OB4",
+        "position": "背面或连接部",
+        "text": "侧缘上有少量新切削亮点"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM046",
+    "displayName": "玉雕如意",
+    "observations": [
+      {
+        "observationId": "ITM046-OB1",
+        "position": "正面轮廓",
+        "text": "如意柄透明度过于均一"
+      },
+      {
+        "observationId": "ITM046-OB2",
+        "position": "雕刻局部",
+        "text": "雕花凹处有浇注小点"
+      },
+      {
+        "observationId": "ITM046-OB3",
+        "position": "侧面透光/结构",
+        "text": "柄端出现透明树脂气泡"
+      },
+      {
+        "observationId": "ITM046-OB4",
+        "position": "背面加工痕",
+        "text": "看不到天然石质的组织交错"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM047",
+    "displayName": "古风鎏金香炉",
+    "observations": [
+      {
+        "observationId": "ITM047-OB1",
+        "position": "器物正面",
+        "text": "香炉通体亮金色但底部露黄铜"
+      },
+      {
+        "observationId": "ITM047-OB2",
+        "position": "纹饰/铸线",
+        "text": "三足为同模压铸"
+      },
+      {
+        "observationId": "ITM047-OB3",
+        "position": "边缘磨损",
+        "text": "炉口有电镀挂点痕"
+      },
+      {
+        "observationId": "ITM047-OB4",
+        "position": "背面或连接部",
+        "text": "炉内不见长期烟熏的层次"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM048",
+    "displayName": "古款鼻烟壶",
+    "observations": [
+      {
+        "observationId": "ITM048-OB1",
+        "position": "正面器型",
+        "text": "鼻烟壶颈部磨口非常平整"
+      },
+      {
+        "observationId": "ITM048-OB2",
+        "position": "近景纹饰",
+        "text": "壶身画面呈现代转印效果"
+      },
+      {
+        "observationId": "ITM048-OB3",
+        "position": "底足/器口",
+        "text": "底部内侧有透明模具线"
+      },
+      {
+        "observationId": "ITM048-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "塞口密封胶残留发白"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM049",
+    "displayName": "花鸟纹瓷盏",
+    "observations": [
+      {
+        "observationId": "ITM049-OB1",
+        "position": "正面器型",
+        "text": "瓷盏内壁花鸟画有重复点阵"
+      },
+      {
+        "observationId": "ITM049-OB2",
+        "position": "近景纹饰",
+        "text": "足圈边沿有新磨砂痕"
+      },
+      {
+        "observationId": "ITM049-OB3",
+        "position": "底足/器口",
+        "text": "釉彩色带未见手描重叠"
+      },
+      {
+        "observationId": "ITM049-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "器底印刷一处英文代号"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM050",
+    "displayName": "青铜小鼎",
+    "observations": [
+      {
+        "observationId": "ITM050-OB1",
+        "position": "器物正面",
+        "text": "小鼎纹饰与耳足一体成模"
+      },
+      {
+        "observationId": "ITM050-OB2",
+        "position": "纹饰/铸线",
+        "text": "足底有明显注塑砂眼"
+      },
+      {
+        "observationId": "ITM050-OB3",
+        "position": "边缘磨损",
+        "text": "腹部所谓铭文不成行"
+      },
+      {
+        "observationId": "ITM050-OB4",
+        "position": "背面或连接部",
+        "text": "整体尺寸偏向现代摆件比例"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM051",
+    "displayName": "山水刻印石",
+    "observations": [
+      {
+        "observationId": "ITM051-OB1",
+        "position": "正面轮廓",
+        "text": "印石山水刻线呈规则V槽"
+      },
+      {
+        "observationId": "ITM051-OB2",
+        "position": "雕刻局部",
+        "text": "切石侧面有均匀锯齿"
+      },
+      {
+        "observationId": "ITM051-OB3",
+        "position": "侧面透光/结构",
+        "text": "石面包浆仅停留在打蜡处"
+      },
+      {
+        "observationId": "ITM051-OB4",
+        "position": "背面加工痕",
+        "text": "落款文字和画面刻线同深"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM052",
+    "displayName": "旧式木盒",
+    "observations": [
+      {
+        "observationId": "ITM052-OB1",
+        "position": "整件正面",
+        "text": "木盒外侧有均匀仿蛀孔"
+      },
+      {
+        "observationId": "ITM052-OB2",
+        "position": "细部/纹样",
+        "text": "铰链螺丝为十字槽"
+      },
+      {
+        "observationId": "ITM052-OB3",
+        "position": "边角/接缝",
+        "text": "内壁刷漆与外壁旧色冲突"
+      },
+      {
+        "observationId": "ITM052-OB4",
+        "position": "背面/底部",
+        "text": "底面贴有现代板材标签"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM053",
+    "displayName": "冰裂纹茶杯",
+    "observations": [
+      {
+        "observationId": "ITM053-OB1",
+        "position": "正面器型",
+        "text": "茶杯口沿的冰裂纹高度重复"
+      },
+      {
+        "observationId": "ITM053-OB2",
+        "position": "近景纹饰",
+        "text": "纹路仅停留在透明釉层"
+      },
+      {
+        "observationId": "ITM053-OB3",
+        "position": "底足/器口",
+        "text": "杯底有新式生产标号"
+      },
+      {
+        "observationId": "ITM053-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "凹纹中染色深浅完全一致"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM054",
+    "displayName": "螭龙纹玉带钩",
+    "observations": [
+      {
+        "observationId": "ITM054-OB1",
+        "position": "正面轮廓",
+        "text": "玉带钩龙首轮廓过圆"
+      },
+      {
+        "observationId": "ITM054-OB2",
+        "position": "雕刻局部",
+        "text": "背部钩弯看见合成材料层"
+      },
+      {
+        "observationId": "ITM054-OB3",
+        "position": "侧面透光/结构",
+        "text": "纹沟里有流塑亮点"
+      },
+      {
+        "observationId": "ITM054-OB4",
+        "position": "背面加工痕",
+        "text": "透光见局部细密小泡"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM055",
+    "displayName": "祥瑞铜铃",
+    "observations": [
+      {
+        "observationId": "ITM055-OB1",
+        "position": "器物正面",
+        "text": "铜铃表面人为磨亮集中在高点"
+      },
+      {
+        "observationId": "ITM055-OB2",
+        "position": "纹饰/铸线",
+        "text": "铃舌是现代螺纹固定"
+      },
+      {
+        "observationId": "ITM055-OB3",
+        "position": "边缘磨损",
+        "text": "铃身花纹重复且浅"
+      },
+      {
+        "observationId": "ITM055-OB4",
+        "position": "背面或连接部",
+        "text": "裂纹处露出均质新铜色"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM056",
+    "displayName": "梅瓶",
+    "observations": [
+      {
+        "observationId": "ITM056-OB1",
+        "position": "正面器型",
+        "text": "梅瓶肩部转折缺少历史器形参照"
+      },
+      {
+        "observationId": "ITM056-OB2",
+        "position": "近景纹饰",
+        "text": "底足规整可见机器打磨"
+      },
+      {
+        "observationId": "ITM056-OB3",
+        "position": "底足/器口",
+        "text": "假款的书法字形拼凑"
+      },
+      {
+        "observationId": "ITM056-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "釉上磨损比釉下刻痕还深"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM057",
+    "displayName": "青瓷笔洗",
+    "observations": [
+      {
+        "observationId": "ITM057-OB1",
+        "position": "正面器型",
+        "text": "青瓷洗内壁有均匀开片纹"
+      },
+      {
+        "observationId": "ITM057-OB2",
+        "position": "近景纹饰",
+        "text": "圈足露胎非常新"
+      },
+      {
+        "observationId": "ITM057-OB3",
+        "position": "底足/器口",
+        "text": "底款明显为近年激光标刻"
+      },
+      {
+        "observationId": "ITM057-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "绿色釉下有同心旋制带"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM058",
+    "displayName": "古风砚台",
+    "observations": [
+      {
+        "observationId": "ITM058-OB1",
+        "position": "正面轮廓",
+        "text": "砚台墨池抛光平顺"
+      },
+      {
+        "observationId": "ITM058-OB2",
+        "position": "雕刻局部",
+        "text": "砚背有机械切割线"
+      },
+      {
+        "observationId": "ITM058-OB3",
+        "position": "侧面透光/结构",
+        "text": "所谓名家款是现代刻刀字"
+      },
+      {
+        "observationId": "ITM058-OB4",
+        "position": "背面加工痕",
+        "text": "石表喷蜡覆盖新切口"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM059",
+    "displayName": "钱币串",
+    "observations": [
+      {
+        "observationId": "ITM059-OB1",
+        "position": "器物正面",
+        "text": "钱串的每枚钱孔大小完全相同"
+      },
+      {
+        "observationId": "ITM059-OB2",
+        "position": "纹饰/铸线",
+        "text": "表面锈色一模一样"
+      },
+      {
+        "observationId": "ITM059-OB3",
+        "position": "边缘磨损",
+        "text": "穿孔处铜色很亮"
+      },
+      {
+        "observationId": "ITM059-OB4",
+        "position": "背面或连接部",
+        "text": "文字边缘没有铸造差异"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM060",
+    "displayName": "双耳扁壶",
+    "observations": [
+      {
+        "observationId": "ITM060-OB1",
+        "position": "正面器型",
+        "text": "双耳扁壶的耳根有统一合模线"
+      },
+      {
+        "observationId": "ITM060-OB2",
+        "position": "近景纹饰",
+        "text": "外层釉色发亮"
+      },
+      {
+        "observationId": "ITM060-OB3",
+        "position": "底足/器口",
+        "text": "底足刻着简化厂记"
+      },
+      {
+        "observationId": "ITM060-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "仿古磨痕与使用位置不对应"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM061",
+    "displayName": "古铜镇纸",
+    "observations": [
+      {
+        "observationId": "ITM061-OB1",
+        "position": "器物正面",
+        "text": "铜镇纸边缘有现代铣削痕"
+      },
+      {
+        "observationId": "ITM061-OB2",
+        "position": "纹饰/铸线",
+        "text": "虎头纹由压铸复制"
+      },
+      {
+        "observationId": "ITM061-OB3",
+        "position": "边缘磨损",
+        "text": "背部镶有新磁铁"
+      },
+      {
+        "observationId": "ITM061-OB4",
+        "position": "背面或连接部",
+        "text": "黑色旧涂层覆盖最新接缝"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM062",
+    "displayName": "铜制罗盘",
+    "observations": [
+      {
+        "observationId": "ITM062-OB1",
+        "position": "器物正面",
+        "text": "铜罗盘指针转轴为十字螺钉"
+      },
+      {
+        "observationId": "ITM062-OB2",
+        "position": "纹饰/铸线",
+        "text": "盘面刻度字体统一"
+      },
+      {
+        "observationId": "ITM062-OB3",
+        "position": "边缘磨损",
+        "text": "红色刻线未见旧污"
+      },
+      {
+        "observationId": "ITM062-OB4",
+        "position": "背面或连接部",
+        "text": "背面有当代厂商缩写"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM063",
+    "displayName": "圆雕玉兽",
+    "observations": [
+      {
+        "observationId": "ITM063-OB1",
+        "position": "正面轮廓",
+        "text": "圆雕玉兽的双眼过于对称"
+      },
+      {
+        "observationId": "ITM063-OB2",
+        "position": "雕刻局部",
+        "text": "腿部转折有明显翻模线"
+      },
+      {
+        "observationId": "ITM063-OB3",
+        "position": "侧面透光/结构",
+        "text": "透光见合成石层状颗粒"
+      },
+      {
+        "observationId": "ITM063-OB4",
+        "position": "背面加工痕",
+        "text": "底部抛光纹非常密而齐"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM064",
+    "displayName": "青花盖罐",
+    "observations": [
+      {
+        "observationId": "ITM064-OB1",
+        "position": "正面器型",
+        "text": "青花盖罐的盖口与罐口完全同模"
+      },
+      {
+        "observationId": "ITM064-OB2",
+        "position": "近景纹饰",
+        "text": "花纹转折出现数码重复"
+      },
+      {
+        "observationId": "ITM064-OB3",
+        "position": "底足/器口",
+        "text": "底釉白得刺眼"
+      },
+      {
+        "observationId": "ITM064-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "盖钮中间留有浇口微痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM065",
+    "displayName": "花纹铜锁",
+    "observations": [
+      {
+        "observationId": "ITM065-OB1",
+        "position": "器物正面",
+        "text": "铜锁锁芯采用现代弹子结构"
+      },
+      {
+        "observationId": "ITM065-OB2",
+        "position": "纹饰/铸线",
+        "text": "钥匙孔边缘毫无旧磨损"
+      },
+      {
+        "observationId": "ITM065-OB3",
+        "position": "边缘磨损",
+        "text": "锁面浮雕重复无变化"
+      },
+      {
+        "observationId": "ITM065-OB4",
+        "position": "背面或连接部",
+        "text": "背面有近年产品代码"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM066",
+    "displayName": "凤纹铜镯",
+    "observations": [
+      {
+        "observationId": "ITM066-OB1",
+        "position": "器物正面",
+        "text": "凤纹铜镯接缝焊点很新"
+      },
+      {
+        "observationId": "ITM066-OB2",
+        "position": "纹饰/铸线",
+        "text": "表面旧色主要在花纹凹处"
+      },
+      {
+        "observationId": "ITM066-OB3",
+        "position": "边缘磨损",
+        "text": "内侧抛光非常均匀"
+      },
+      {
+        "observationId": "ITM066-OB4",
+        "position": "背面或连接部",
+        "text": "凤翅纹刻痕存在机械重复"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM067",
+    "displayName": "竹节玉管",
+    "observations": [
+      {
+        "observationId": "ITM067-OB1",
+        "position": "正面轮廓",
+        "text": "竹节玉管表面纹理过度规整"
+      },
+      {
+        "observationId": "ITM067-OB2",
+        "position": "雕刻局部",
+        "text": "中空壁厚完全一致"
+      },
+      {
+        "observationId": "ITM067-OB3",
+        "position": "侧面透光/结构",
+        "text": "管口内侧有模塑点"
+      },
+      {
+        "observationId": "ITM067-OB4",
+        "position": "背面加工痕",
+        "text": "表皮做旧而截面干净"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM068",
+    "displayName": "古意瓷枕",
+    "observations": [
+      {
+        "observationId": "ITM068-OB1",
+        "position": "正面器型",
+        "text": "瓷枕枕面有统一印模点纹"
+      },
+      {
+        "observationId": "ITM068-OB2",
+        "position": "近景纹饰",
+        "text": "侧面绘图出现打印网点"
+      },
+      {
+        "observationId": "ITM068-OB3",
+        "position": "底足/器口",
+        "text": "底部有当代炉号"
+      },
+      {
+        "observationId": "ITM068-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "釉面旧裂纹颜色不随深浅变化"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM069",
+    "displayName": "青铜酒杯",
+    "observations": [
+      {
+        "observationId": "ITM069-OB1",
+        "position": "器物正面",
+        "text": "青铜酒杯的耳足是压铸一体"
+      },
+      {
+        "observationId": "ITM069-OB2",
+        "position": "纹饰/铸线",
+        "text": "杯内铜色比外壁明显新"
+      },
+      {
+        "observationId": "ITM069-OB3",
+        "position": "边缘磨损",
+        "text": "纹饰线条像贴片"
+      },
+      {
+        "observationId": "ITM069-OB4",
+        "position": "背面或连接部",
+        "text": "杯底有未打磨的批量编号"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM070",
+    "displayName": "老款鼻烟壶",
+    "observations": [
+      {
+        "observationId": "ITM070-OB1",
+        "position": "正面轮廓",
+        "text": "鼻烟壶塞头套有新橡胶圈"
+      },
+      {
+        "observationId": "ITM070-OB2",
+        "position": "雕刻局部",
+        "text": "瓶身画片为印刷转膜"
+      },
+      {
+        "observationId": "ITM070-OB3",
+        "position": "侧面透光/结构",
+        "text": "磨口很新"
+      },
+      {
+        "observationId": "ITM070-OB4",
+        "position": "背面加工痕",
+        "text": "玻璃壁厚均一且有模线"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM071",
+    "displayName": "鎏金小佛龛",
+    "observations": [
+      {
+        "observationId": "ITM071-OB1",
+        "position": "整件正面",
+        "text": "鎏金小佛龛内壁留有胶痕"
+      },
+      {
+        "observationId": "ITM071-OB2",
+        "position": "细部/纹样",
+        "text": "背板材质为现代夹板"
+      },
+      {
+        "observationId": "ITM071-OB3",
+        "position": "边角/接缝",
+        "text": "金色层只覆盖正面"
+      },
+      {
+        "observationId": "ITM071-OB4",
+        "position": "背面/底部",
+        "text": "龛门铰链采用新式小螺丝"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM072",
+    "displayName": "古铜香炉",
+    "observations": [
+      {
+        "observationId": "ITM072-OB1",
+        "position": "器物正面",
+        "text": "香炉腹部老锈呈片状涂层"
+      },
+      {
+        "observationId": "ITM072-OB2",
+        "position": "纹饰/铸线",
+        "text": "三足底部出现同一磨损图案"
+      },
+      {
+        "observationId": "ITM072-OB3",
+        "position": "边缘磨损",
+        "text": "底部有新近焊修痕"
+      },
+      {
+        "observationId": "ITM072-OB4",
+        "position": "背面或连接部",
+        "text": "炉膛未见对应的积烟结构"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM073",
+    "displayName": "景德镇工艺茶壶",
+    "observations": [
+      {
+        "observationId": "ITM073-OB1",
+        "position": "正面器型",
+        "text": "茶壶壶口与盖缝合紧密"
+      },
+      {
+        "observationId": "ITM073-OB2",
+        "position": "近景纹饰",
+        "text": "壶身有手绘景德镇风格花纹"
+      },
+      {
+        "observationId": "ITM073-OB3",
+        "position": "底足/器口",
+        "text": "底部标有现代制作信息"
+      },
+      {
+        "observationId": "ITM073-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "壶内为日常可用瓷釉"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM074",
+    "displayName": "现代陶瓷花瓶",
+    "observations": [
+      {
+        "observationId": "ITM074-OB1",
+        "position": "正面器型",
+        "text": "花瓶外壁为单色釉"
+      },
+      {
+        "observationId": "ITM074-OB2",
+        "position": "近景纹饰",
+        "text": "底部有现代陶瓷商标"
+      },
+      {
+        "observationId": "ITM074-OB3",
+        "position": "底足/器口",
+        "text": "口沿釉色略有堆积"
+      },
+      {
+        "observationId": "ITM074-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "器壁厚薄比较均一"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM075",
+    "displayName": "机器雕刻木马",
+    "observations": [
+      {
+        "observationId": "ITM075-OB1",
+        "position": "整件正面",
+        "text": "木马四条腿由机器铣出"
+      },
+      {
+        "observationId": "ITM075-OB2",
+        "position": "细部/纹样",
+        "text": "轮廓重复对称"
+      },
+      {
+        "observationId": "ITM075-OB3",
+        "position": "边角/接缝",
+        "text": "底部有一粒现代金属固定螺钉"
+      },
+      {
+        "observationId": "ITM075-OB4",
+        "position": "背面/底部",
+        "text": "表面喷涂彩漆"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM076",
+    "displayName": "旅游纪念铜铃",
+    "observations": [
+      {
+        "observationId": "ITM076-OB1",
+        "position": "器物正面",
+        "text": "小铜铃顶有旅游地名"
+      },
+      {
+        "observationId": "ITM076-OB2",
+        "position": "纹饰/铸线",
+        "text": "铃舌用环扣安装"
+      },
+      {
+        "observationId": "ITM076-OB3",
+        "position": "边缘磨损",
+        "text": "金属颜色均匀明亮"
+      },
+      {
+        "observationId": "ITM076-OB4",
+        "position": "背面或连接部",
+        "text": "铃身刻有纪念年份"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM077",
+    "displayName": "仿古风书签",
+    "observations": [
+      {
+        "observationId": "ITM077-OB1",
+        "position": "整件正面",
+        "text": "书签压制出龙凤纹"
+      },
+      {
+        "observationId": "ITM077-OB2",
+        "position": "局部文字/编号",
+        "text": "边缘冲切整齐"
+      },
+      {
+        "observationId": "ITM077-OB3",
+        "position": "纸边/印色",
+        "text": "挂穗为新合成纤维"
+      },
+      {
+        "observationId": "ITM077-OB4",
+        "position": "背面或装订处",
+        "text": "背面有店家二维码"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM078",
+    "displayName": "合金纪念币",
+    "observations": [
+      {
+        "observationId": "ITM078-OB1",
+        "position": "器物正面",
+        "text": "纪念币为圆形非古钱"
+      },
+      {
+        "observationId": "ITM078-OB2",
+        "position": "纹饰/铸线",
+        "text": "背面刻有现代纪念主题"
+      },
+      {
+        "observationId": "ITM078-OB3",
+        "position": "边缘磨损",
+        "text": "封装纸卡印有发行商"
+      },
+      {
+        "observationId": "ITM078-OB4",
+        "position": "背面或连接部",
+        "text": "币面无流通痕迹"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM079",
+    "displayName": "树脂麒麟摆件",
+    "observations": [
+      {
+        "observationId": "ITM079-OB1",
+        "position": "整件正面",
+        "text": "麒麟摆件的断口为白色树脂"
+      },
+      {
+        "observationId": "ITM079-OB2",
+        "position": "细部/纹样",
+        "text": "底面有合模线"
+      },
+      {
+        "observationId": "ITM079-OB3",
+        "position": "边角/接缝",
+        "text": "眼睛点漆反光较强"
+      },
+      {
+        "observationId": "ITM079-OB4",
+        "position": "背面/底部",
+        "text": "外壳喷有仿铜色"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM080",
+    "displayName": "木质首饰盒",
+    "observations": [
+      {
+        "observationId": "ITM080-OB1",
+        "position": "整件正面",
+        "text": "首饰盒盒盖有激光雕花"
+      },
+      {
+        "observationId": "ITM080-OB2",
+        "position": "细部/纹样",
+        "text": "内衬为绒布粘贴"
+      },
+      {
+        "observationId": "ITM080-OB3",
+        "position": "边角/接缝",
+        "text": "锁扣使用当代小五金"
+      },
+      {
+        "observationId": "ITM080-OB4",
+        "position": "背面/底部",
+        "text": "底部贴有木制品标签"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM081",
+    "displayName": "玻璃仿玉手链",
+    "observations": [
+      {
+        "observationId": "ITM081-OB1",
+        "position": "正面轮廓",
+        "text": "手链珠子透光过分一致"
+      },
+      {
+        "observationId": "ITM081-OB2",
+        "position": "雕刻局部",
+        "text": "珠内可见小气泡"
+      },
+      {
+        "observationId": "ITM081-OB3",
+        "position": "侧面透光/结构",
+        "text": "弹力线为现代硅胶线"
+      },
+      {
+        "observationId": "ITM081-OB4",
+        "position": "背面加工痕",
+        "text": "珠孔边缘磨得圆滑"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM082",
+    "displayName": "现代瓷盘",
+    "observations": [
+      {
+        "observationId": "ITM082-OB1",
+        "position": "正面器型",
+        "text": "瓷盘画的是现代卡通主题"
+      },
+      {
+        "observationId": "ITM082-OB2",
+        "position": "近景纹饰",
+        "text": "底面有当代品牌字样"
+      },
+      {
+        "observationId": "ITM082-OB3",
+        "position": "底足/器口",
+        "text": "盘沿滚印均匀"
+      },
+      {
+        "observationId": "ITM082-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "釉彩可作日常食器装饰"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM083",
+    "displayName": "压花茶叶罐",
+    "observations": [
+      {
+        "observationId": "ITM083-OB1",
+        "position": "整件正面",
+        "text": "茶叶罐盖为压花铁皮"
+      },
+      {
+        "observationId": "ITM083-OB2",
+        "position": "局部文字/编号",
+        "text": "内壁有食品接触涂层"
+      },
+      {
+        "observationId": "ITM083-OB3",
+        "position": "纸边/印色",
+        "text": "底部标注净含量"
+      },
+      {
+        "observationId": "ITM083-OB4",
+        "position": "背面或装订处",
+        "text": "外侧印了新式保质期"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM084",
+    "displayName": "黄铜钥匙扣",
+    "observations": [
+      {
+        "observationId": "ITM084-OB1",
+        "position": "器物正面",
+        "text": "钥匙扣有钢圈和铜牌"
+      },
+      {
+        "observationId": "ITM084-OB2",
+        "position": "纹饰/铸线",
+        "text": "铜牌刻着吉祥话"
+      },
+      {
+        "observationId": "ITM084-OB3",
+        "position": "边缘磨损",
+        "text": "背面有现代激光码"
+      },
+      {
+        "observationId": "ITM084-OB4",
+        "position": "背面或连接部",
+        "text": "表面保护漆均匀"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM085",
+    "displayName": "景区印章套装",
+    "observations": [
+      {
+        "observationId": "ITM085-OB1",
+        "position": "整件正面",
+        "text": "印章盒中有橡胶印章"
+      },
+      {
+        "observationId": "ITM085-OB2",
+        "position": "细部/纹样",
+        "text": "手柄木料为机械车制"
+      },
+      {
+        "observationId": "ITM085-OB3",
+        "position": "边角/接缝",
+        "text": "印泥盒印现代品牌"
+      },
+      {
+        "observationId": "ITM085-OB4",
+        "position": "背面/底部",
+        "text": "外包装留有条形码"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM086",
+    "displayName": "木雕手机架",
+    "observations": [
+      {
+        "observationId": "ITM086-OB1",
+        "position": "整件正面",
+        "text": "木手机架为插榫式新制品"
+      },
+      {
+        "observationId": "ITM086-OB2",
+        "position": "细部/纹样",
+        "text": "托槽适合手机厚度"
+      },
+      {
+        "observationId": "ITM086-OB3",
+        "position": "边角/接缝",
+        "text": "表面机打木纹一致"
+      },
+      {
+        "observationId": "ITM086-OB4",
+        "position": "背面/底部",
+        "text": "侧面可见机器锯片痕"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM087",
+    "displayName": "布艺福袋",
+    "observations": [
+      {
+        "observationId": "ITM087-OB1",
+        "position": "整件正面",
+        "text": "福袋面料为现代棉麻"
+      },
+      {
+        "observationId": "ITM087-OB2",
+        "position": "细部/纹样",
+        "text": "抽绳有塑料绳头"
+      },
+      {
+        "observationId": "ITM087-OB3",
+        "position": "边角/接缝",
+        "text": "袋面印了祝福字"
+      },
+      {
+        "observationId": "ITM087-OB4",
+        "position": "背面/底部",
+        "text": "内里有缝纫锁边"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM088",
+    "displayName": "竹制茶盘",
+    "observations": [
+      {
+        "observationId": "ITM088-OB1",
+        "position": "整件正面",
+        "text": "茶盘由竹板拼接"
+      },
+      {
+        "observationId": "ITM088-OB2",
+        "position": "细部/纹样",
+        "text": "排水槽尺寸适合茶杯"
+      },
+      {
+        "observationId": "ITM088-OB3",
+        "position": "边角/接缝",
+        "text": "底面有防滑垫"
+      },
+      {
+        "observationId": "ITM088-OB4",
+        "position": "背面/底部",
+        "text": "竹材表面涂了防水漆"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM089",
+    "displayName": "树脂珊瑚摆件",
+    "observations": [
+      {
+        "observationId": "ITM089-OB1",
+        "position": "整件正面",
+        "text": "珊瑚造型表面红色喷漆"
+      },
+      {
+        "observationId": "ITM089-OB2",
+        "position": "细部/纹样",
+        "text": "底部标示树脂材质"
+      },
+      {
+        "observationId": "ITM089-OB3",
+        "position": "边角/接缝",
+        "text": "枝杈重复对称"
+      },
+      {
+        "observationId": "ITM089-OB4",
+        "position": "背面/底部",
+        "text": "基座有金属螺丝"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM090",
+    "displayName": "陶土小花盆",
+    "observations": [
+      {
+        "observationId": "ITM090-OB1",
+        "position": "正面器型",
+        "text": "小花盆有底部排水孔"
+      },
+      {
+        "observationId": "ITM090-OB2",
+        "position": "近景纹饰",
+        "text": "表面是手工压纹"
+      },
+      {
+        "observationId": "ITM090-OB3",
+        "position": "底足/器口",
+        "text": "底部有现代烧制记号"
+      },
+      {
+        "observationId": "ITM090-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "口沿尺寸适合多肉盆栽"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM091",
+    "displayName": "彩釉小碗",
+    "observations": [
+      {
+        "observationId": "ITM091-OB1",
+        "position": "正面器型",
+        "text": "彩釉碗内壁有明显现代配色"
+      },
+      {
+        "observationId": "ITM091-OB2",
+        "position": "近景纹饰",
+        "text": "底部标了作坊名"
+      },
+      {
+        "observationId": "ITM091-OB3",
+        "position": "底足/器口",
+        "text": "外壁局部釉流自然"
+      },
+      {
+        "observationId": "ITM091-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "碗口形成统一圆弧"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM092",
+    "displayName": "工厂制铜杯",
+    "observations": [
+      {
+        "observationId": "ITM092-OB1",
+        "position": "器物正面",
+        "text": "铜杯为旋压直筒形"
+      },
+      {
+        "observationId": "ITM092-OB2",
+        "position": "纹饰/铸线",
+        "text": "杯壁留有整齐同心线"
+      },
+      {
+        "observationId": "ITM092-OB3",
+        "position": "边缘磨损",
+        "text": "杯底印有容量与厂家"
+      },
+      {
+        "observationId": "ITM092-OB4",
+        "position": "背面或连接部",
+        "text": "杯内保留食品级涂层"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM093",
+    "displayName": "手工香插",
+    "observations": [
+      {
+        "observationId": "ITM093-OB1",
+        "position": "正面器型",
+        "text": "香插有五个插香小孔"
+      },
+      {
+        "observationId": "ITM093-OB2",
+        "position": "近景纹饰",
+        "text": "底盘尺寸适合线香"
+      },
+      {
+        "observationId": "ITM093-OB3",
+        "position": "底足/器口",
+        "text": "金属边缘倒角新净"
+      },
+      {
+        "observationId": "ITM093-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部贴有现代防滑垫"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM094",
+    "displayName": "塑料琥珀挂坠",
+    "observations": [
+      {
+        "observationId": "ITM094-OB1",
+        "position": "整体外观",
+        "text": "挂坠半透明呈蜂蜜色"
+      },
+      {
+        "observationId": "ITM094-OB2",
+        "position": "标记/铭牌",
+        "text": "侧边浇口有残痕"
+      },
+      {
+        "observationId": "ITM094-OB3",
+        "position": "接口/边缘",
+        "text": "小气泡停留在内部"
+      },
+      {
+        "observationId": "ITM094-OB4",
+        "position": "背面螺丝/结构",
+        "text": "挂绳是现代成品绳"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM095",
+    "displayName": "金属复刻海报",
+    "observations": [
+      {
+        "observationId": "ITM095-OB1",
+        "position": "器物正面",
+        "text": "海报画面以复古车站为题"
+      },
+      {
+        "observationId": "ITM095-OB2",
+        "position": "纹饰/铸线",
+        "text": "金属表面有机器压凹点"
+      },
+      {
+        "observationId": "ITM095-OB3",
+        "position": "边缘磨损",
+        "text": "角落印有当代版权标识"
+      },
+      {
+        "observationId": "ITM095-OB4",
+        "position": "背面或连接部",
+        "text": "背面有四个挂孔"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM096",
+    "displayName": "工艺石雕狮子",
+    "observations": [
+      {
+        "observationId": "ITM096-OB1",
+        "position": "正面轮廓",
+        "text": "石狮子底座四角对称"
+      },
+      {
+        "observationId": "ITM096-OB2",
+        "position": "雕刻局部",
+        "text": "石材纹理较均匀"
+      },
+      {
+        "observationId": "ITM096-OB3",
+        "position": "侧面透光/结构",
+        "text": "机器钻孔的圆心还在"
+      },
+      {
+        "observationId": "ITM096-OB4",
+        "position": "背面加工痕",
+        "text": "包装泡棉残留在底面"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM097",
+    "displayName": "现代墨盒",
+    "observations": [
+      {
+        "observationId": "ITM097-OB1",
+        "position": "器物正面",
+        "text": "墨盒盖子为塑料卡扣"
+      },
+      {
+        "observationId": "ITM097-OB2",
+        "position": "纹饰/铸线",
+        "text": "外壳带金属装饰色"
+      },
+      {
+        "observationId": "ITM097-OB3",
+        "position": "边缘磨损",
+        "text": "底部印有新近制造日期"
+      },
+      {
+        "observationId": "ITM097-OB4",
+        "position": "背面或连接部",
+        "text": "内胆可更换"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM098",
+    "displayName": "小型毛笔架",
+    "observations": [
+      {
+        "observationId": "ITM098-OB1",
+        "position": "整件正面",
+        "text": "毛笔架有五个悬挂钩"
+      },
+      {
+        "observationId": "ITM098-OB2",
+        "position": "细部/纹样",
+        "text": "木料表面喷清漆"
+      },
+      {
+        "observationId": "ITM098-OB3",
+        "position": "边角/接缝",
+        "text": "支撑脚由螺丝组装"
+      },
+      {
+        "observationId": "ITM098-OB4",
+        "position": "背面/底部",
+        "text": "底部有文具品牌字样"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM099",
+    "displayName": "仿古纸扇",
+    "observations": [
+      {
+        "observationId": "ITM099-OB1",
+        "position": "整件正面",
+        "text": "纸扇印有旧式山水画"
+      },
+      {
+        "observationId": "ITM099-OB2",
+        "position": "局部文字/编号",
+        "text": "扇骨为机器竹片"
+      },
+      {
+        "observationId": "ITM099-OB3",
+        "position": "纸边/印色",
+        "text": "扇面纸张崭新"
+      },
+      {
+        "observationId": "ITM099-OB4",
+        "position": "背面或装订处",
+        "text": "扇尾有现代流苏挂件"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM100",
+    "displayName": "木制镇纸",
+    "observations": [
+      {
+        "observationId": "ITM100-OB1",
+        "position": "整件正面",
+        "text": "镇纸为一块长方木条"
+      },
+      {
+        "observationId": "ITM100-OB2",
+        "position": "细部/纹样",
+        "text": "木面刻着书法字体"
+      },
+      {
+        "observationId": "ITM100-OB3",
+        "position": "边角/接缝",
+        "text": "底面贴有防滑毡"
+      },
+      {
+        "observationId": "ITM100-OB4",
+        "position": "背面/底部",
+        "text": "四角机加工圆润"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM101",
+    "displayName": "手作瓷铃",
+    "observations": [
+      {
+        "observationId": "ITM101-OB1",
+        "position": "正面器型",
+        "text": "瓷铃顶端有穿绳孔"
+      },
+      {
+        "observationId": "ITM101-OB2",
+        "position": "近景纹饰",
+        "text": "铃舌用棉绳悬挂"
+      },
+      {
+        "observationId": "ITM101-OB3",
+        "position": "底足/器口",
+        "text": "表面绘彩色小花"
+      },
+      {
+        "observationId": "ITM101-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部有作坊制作标志"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM102",
+    "displayName": "陶瓷招财猫",
+    "observations": [
+      {
+        "observationId": "ITM102-OB1",
+        "position": "正面器型",
+        "text": "招财猫举起一只前爪"
+      },
+      {
+        "observationId": "ITM102-OB2",
+        "position": "近景纹饰",
+        "text": "表面彩釉明亮"
+      },
+      {
+        "observationId": "ITM102-OB3",
+        "position": "底足/器口",
+        "text": "肚腹有金字招牌"
+      },
+      {
+        "observationId": "ITM102-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部是现代空心灌浆工艺"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM103",
+    "displayName": "现代印章礼盒",
+    "observations": [
+      {
+        "observationId": "ITM103-OB1",
+        "position": "正面轮廓",
+        "text": "礼盒内有两枚石章"
+      },
+      {
+        "observationId": "ITM103-OB2",
+        "position": "雕刻局部",
+        "text": "章面可定制姓名"
+      },
+      {
+        "observationId": "ITM103-OB3",
+        "position": "侧面透光/结构",
+        "text": "盒内衬有机器剪裁绒布"
+      },
+      {
+        "observationId": "ITM103-OB4",
+        "position": "背面加工痕",
+        "text": "外包装印有生产商信息"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM104",
+    "displayName": "彩绘泥塑兔",
+    "observations": [
+      {
+        "observationId": "ITM104-OB1",
+        "position": "整件正面",
+        "text": "泥塑兔耳朵比例夸张"
+      },
+      {
+        "observationId": "ITM104-OB2",
+        "position": "细部/纹样",
+        "text": "表面手绘颜料覆盖胎体"
+      },
+      {
+        "observationId": "ITM104-OB3",
+        "position": "边角/接缝",
+        "text": "底部有当代作者签名"
+      },
+      {
+        "observationId": "ITM104-OB4",
+        "position": "背面/底部",
+        "text": "一侧留有烘干收缩线"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM105",
+    "displayName": "编织茶杯垫",
+    "observations": [
+      {
+        "observationId": "ITM105-OB1",
+        "position": "整件正面",
+        "text": "杯垫由不同颜色线交织"
+      },
+      {
+        "observationId": "ITM105-OB2",
+        "position": "细部/纹样",
+        "text": "边缘锁边整齐"
+      },
+      {
+        "observationId": "ITM105-OB3",
+        "position": "边角/接缝",
+        "text": "底部有现代洗涤标"
+      },
+      {
+        "observationId": "ITM105-OB4",
+        "position": "背面/底部",
+        "text": "尺寸适配圆底茶杯"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM106",
+    "displayName": "树脂山水摆件",
+    "observations": [
+      {
+        "observationId": "ITM106-OB1",
+        "position": "整件正面",
+        "text": "山水树脂景片有透明水面"
+      },
+      {
+        "observationId": "ITM106-OB2",
+        "position": "细部/纹样",
+        "text": "树石颜色分层喷涂"
+      },
+      {
+        "observationId": "ITM106-OB3",
+        "position": "边角/接缝",
+        "text": "底座留有模具分模线"
+      },
+      {
+        "observationId": "ITM106-OB4",
+        "position": "背面/底部",
+        "text": "背部刻有纪念商标"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM107",
+    "displayName": "景区瓷盘",
+    "observations": [
+      {
+        "observationId": "ITM107-OB1",
+        "position": "正面器型",
+        "text": "景区纪念盘绘旅游地标"
+      },
+      {
+        "observationId": "ITM107-OB2",
+        "position": "近景纹饰",
+        "text": "背面印有景点名称"
+      },
+      {
+        "observationId": "ITM107-OB3",
+        "position": "底足/器口",
+        "text": "盘面覆透明新釉"
+      },
+      {
+        "observationId": "ITM107-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "盘背留有展示支架槽"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM108",
+    "displayName": "合成石挂坠",
+    "observations": [
+      {
+        "observationId": "ITM108-OB1",
+        "position": "正面轮廓",
+        "text": "挂坠表面为蓝绿色合成石"
+      },
+      {
+        "observationId": "ITM108-OB2",
+        "position": "雕刻局部",
+        "text": "孔眼是机器钻孔"
+      },
+      {
+        "observationId": "ITM108-OB3",
+        "position": "侧面透光/结构",
+        "text": "金属扣具非常新"
+      },
+      {
+        "observationId": "ITM108-OB4",
+        "position": "背面加工痕",
+        "text": "背面刻有工厂批次"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM109",
+    "displayName": "现代纸灯笼",
+    "observations": [
+      {
+        "observationId": "ITM109-OB1",
+        "position": "整件正面",
+        "text": "纸灯笼表面印有吉祥字"
+      },
+      {
+        "observationId": "ITM109-OB2",
+        "position": "局部文字/编号",
+        "text": "竹骨分布规整"
+      },
+      {
+        "observationId": "ITM109-OB3",
+        "position": "纸边/印色",
+        "text": "纸面为新机器纸"
+      },
+      {
+        "observationId": "ITM109-OB4",
+        "position": "背面或装订处",
+        "text": "内侧有现代电子灯座"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM110",
+    "displayName": "手工香囊",
+    "observations": [
+      {
+        "observationId": "ITM110-OB1",
+        "position": "整件正面",
+        "text": "香囊绣有花鸟纹"
+      },
+      {
+        "observationId": "ITM110-OB2",
+        "position": "细部/纹样",
+        "text": "收口用新丝绳"
+      },
+      {
+        "observationId": "ITM110-OB3",
+        "position": "边角/接缝",
+        "text": "内袋可见香料包"
+      },
+      {
+        "observationId": "ITM110-OB4",
+        "position": "背面/底部",
+        "text": "缝线均匀且有标签"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM111",
+    "displayName": "玻璃釉彩杯",
+    "observations": [
+      {
+        "observationId": "ITM111-OB1",
+        "position": "正面轮廓",
+        "text": "玻璃杯外壁绘彩色花叶"
+      },
+      {
+        "observationId": "ITM111-OB2",
+        "position": "雕刻局部",
+        "text": "杯口有机器卷边"
+      },
+      {
+        "observationId": "ITM111-OB3",
+        "position": "侧面透光/结构",
+        "text": "底部印有现代安全标识"
+      },
+      {
+        "observationId": "ITM111-OB4",
+        "position": "背面加工痕",
+        "text": "玻璃内部有少量气泡"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM112",
+    "displayName": "电镀铜镜",
+    "observations": [
+      {
+        "observationId": "ITM112-OB1",
+        "position": "器物正面",
+        "text": "镜背为薄金属电镀层"
+      },
+      {
+        "observationId": "ITM112-OB2",
+        "position": "纹饰/铸线",
+        "text": "正面覆一块玻璃镜片"
+      },
+      {
+        "observationId": "ITM112-OB3",
+        "position": "边缘磨损",
+        "text": "镜柄用小螺钉固定"
+      },
+      {
+        "observationId": "ITM112-OB4",
+        "position": "背面或连接部",
+        "text": "背面有当代品牌缩写"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM113",
+    "displayName": "现代串珠手链",
+    "observations": [
+      {
+        "observationId": "ITM113-OB1",
+        "position": "正面轮廓",
+        "text": "手链以彩色串珠组成"
+      },
+      {
+        "observationId": "ITM113-OB2",
+        "position": "雕刻局部",
+        "text": "弹力线穿过珠孔"
+      },
+      {
+        "observationId": "ITM113-OB3",
+        "position": "侧面透光/结构",
+        "text": "珠子为统一注塑色"
+      },
+      {
+        "observationId": "ITM113-OB4",
+        "position": "背面加工痕",
+        "text": "末端结扣藏于珠中"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM114",
+    "displayName": "工艺雕花盒",
+    "observations": [
+      {
+        "observationId": "ITM114-OB1",
+        "position": "整件正面",
+        "text": "雕花盒正面为激光花纹"
+      },
+      {
+        "observationId": "ITM114-OB2",
+        "position": "细部/纹样",
+        "text": "盒板为多层复合板"
+      },
+      {
+        "observationId": "ITM114-OB3",
+        "position": "边角/接缝",
+        "text": "金属铰链是标准配件"
+      },
+      {
+        "observationId": "ITM114-OB4",
+        "position": "背面/底部",
+        "text": "里层使用现代植绒纸"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM115",
+    "displayName": "景区木梳",
+    "observations": [
+      {
+        "observationId": "ITM115-OB1",
+        "position": "整件正面",
+        "text": "木梳背面刻景区字样"
+      },
+      {
+        "observationId": "ITM115-OB2",
+        "position": "细部/纹样",
+        "text": "梳齿为等距机器切割"
+      },
+      {
+        "observationId": "ITM115-OB3",
+        "position": "边角/接缝",
+        "text": "木面喷透明护漆"
+      },
+      {
+        "observationId": "ITM115-OB4",
+        "position": "背面/底部",
+        "text": "包装残留贴标胶"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM116",
+    "displayName": "小型铁皮玩具",
+    "observations": [
+      {
+        "observationId": "ITM116-OB1",
+        "position": "器物正面",
+        "text": "小铁皮车轮子能转动"
+      },
+      {
+        "observationId": "ITM116-OB2",
+        "position": "纹饰/铸线",
+        "text": "漆面有鲜亮印花"
+      },
+      {
+        "observationId": "ITM116-OB3",
+        "position": "边缘磨损",
+        "text": "底部留有现代合格标签"
+      },
+      {
+        "observationId": "ITM116-OB4",
+        "position": "背面或连接部",
+        "text": "前轴使用螺钉固定"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM117",
+    "displayName": "石膏浮雕相框",
+    "observations": [
+      {
+        "observationId": "ITM117-OB1",
+        "position": "正面轮廓",
+        "text": "石膏相框四角为浮雕花草"
+      },
+      {
+        "observationId": "ITM117-OB2",
+        "position": "雕刻局部",
+        "text": "边缘有白色模具接线"
+      },
+      {
+        "observationId": "ITM117-OB3",
+        "position": "侧面透光/结构",
+        "text": "背板有相纸卡槽"
+      },
+      {
+        "observationId": "ITM117-OB4",
+        "position": "背面加工痕",
+        "text": "表面喷金色涂层"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM118",
+    "displayName": "新式搪瓷杯",
+    "observations": [
+      {
+        "observationId": "ITM118-OB1",
+        "position": "正面器型",
+        "text": "新搪瓷杯写有复古口号"
+      },
+      {
+        "observationId": "ITM118-OB2",
+        "position": "近景纹饰",
+        "text": "杯口有当代不锈钢包边"
+      },
+      {
+        "observationId": "ITM118-OB3",
+        "position": "底足/器口",
+        "text": "杯底印现代厂家标识"
+      },
+      {
+        "observationId": "ITM118-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "内壁釉面完整无磕点"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM119",
+    "displayName": "手工陶艺杯",
+    "observations": [
+      {
+        "observationId": "ITM119-OB1",
+        "position": "正面器型",
+        "text": "陶艺杯壁厚略有手捏变化"
+      },
+      {
+        "observationId": "ITM119-OB2",
+        "position": "近景纹饰",
+        "text": "釉色一侧较厚"
+      },
+      {
+        "observationId": "ITM119-OB3",
+        "position": "底足/器口",
+        "text": "杯柄与杯身接合处可见捏塑痕"
+      },
+      {
+        "observationId": "ITM119-OB4",
+        "position": "侧面釉层或接缝",
+        "text": "底部刻有当代窑主名"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  },
+  {
+    "productId": "ITM120",
+    "displayName": "复古印花笔记本",
+    "observations": [
+      {
+        "observationId": "ITM120-OB1",
+        "position": "整件正面",
+        "text": "笔记本封面为旧报纸风格"
+      },
+      {
+        "observationId": "ITM120-OB2",
+        "position": "局部文字/编号",
+        "text": "页面实际是新白纸"
+      },
+      {
+        "observationId": "ITM120-OB3",
+        "position": "纸边/印色",
+        "text": "书脊采用现代胶装"
+      },
+      {
+        "observationId": "ITM120-OB4",
+        "position": "背面或装订处",
+        "text": "封底有商品条形码"
+      }
+    ],
+    "maxPurchasesPerUser": 1
+  }
+]

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#d7f3ef" />
+    <title>我在地摊淘宝｜开发预览</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js?v=3"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="panel control-panel">
+        <div class="brand-row"><span class="brand-mark">⌑</span><div><div class="brand-title">地摊淘宝</div><div class="small-caps">Cocos 3.8 · UI 开发预览</div></div></div>
+        <p class="side-lead">沿用 demo 的清爽新国潮视觉。地图选摊，货架固定，每件商品个人限购。</p>
+        <div class="row between"><span class="tag">● 本地 mock 数据</span><span class="text-xs muted">120 件</span></div>
+        <div class="side-title">体验流程</div>
+        <div class="routes-list">
+          <button class="route-row active" data-page="market"><span class="route-id">PG-10</span>集市地图</button>
+          <button class="route-row" data-page="stall"><span class="route-id">PG-11</span>固定摊位</button>
+          <button class="route-row" data-page="product"><span class="route-id">PG-12</span>观察物件</button>
+          <button class="route-row" data-page="judgement"><span class="route-id">PG-15</span>购买前判断</button>
+          <button class="route-row" data-page="bargain"><span class="route-id">PG-13</span>砍价交易</button>
+          <button class="route-row" data-page="receipt"><span class="route-id">PG-14</span>成交回执</button>
+          <button class="route-row" data-page="inventory"><span class="route-id">PG-21</span>我的藏馆</button>
+        </div>
+        <div class="side-title">体验与说明</div>
+        <button class="side-button" id="reset-demo">↺ 重置本地体验</button>
+        <p class="hint-note">固定货架来自 demo 公共配置；此预览仅模拟购买，不包含真实支付、鉴定结论或服务端账本。</p>
+      </aside>
+
+      <main class="desktop-center">
+        <div class="center-caption"><span>微信小游戏竖屏预览</span><b>核心闭环</b></div>
+        <section class="device" aria-label="游戏手机预览">
+          <div class="statusbar"><span>9:41</span><span>◉ ━ ▰</span></div>
+          <header class="phone-header">
+            <button class="back-button" id="back-button" aria-label="返回上一页">‹</button>
+            <h1 id="page-title">我在地摊淘宝</h1>
+            <div class="header-right">
+              <button class="tiny-wallet" id="cash-balance">◉ 500</button>
+              <button class="tiny-action" id="settings-button" aria-label="设置">⚙</button>
+            </div>
+          </header>
+          <div class="phone-scroll" id="screen" tabindex="0"></div>
+          <nav class="phone-nav" aria-label="主导航">
+            <button class="nav-item active" data-page="market"><span class="nav-icon">⌂</span><span>集市</span><i></i></button>
+            <button class="nav-item" data-page="inventory"><span class="nav-icon">▣</span><span>我的藏馆</span><i></i></button>
+            <button class="nav-item" data-page="people"><span class="nav-icon">♧</span><span>人物</span><i></i></button>
+            <button class="nav-item" data-page="knowledge"><span class="nav-icon">◉</span><span>长见识</span><i></i></button>
+          </nav>
+          <div class="toast" id="toast" role="status" aria-live="polite"></div>
+        </section>
+        <div class="device-footnote">同一套 fixed catalog / mock adapter，后续替换为真实 API</div>
+      </main>
+
+      <aside class="panel dev-panel">
+        <div class="right-head"><h2>开发验收台</h2><span class="tag">MOCK API</span></div>
+        <p class="hint-note">页面只读取公开货品字段。购买次数与钱包由 mock adapter 暂存。</p>
+        <div class="state-grid">
+          <div class="dev-stat"><strong id="stall-count">12</strong><small>固定摊位</small></div>
+          <div class="dev-stat"><strong>10</strong><small>每摊货品</small></div>
+          <div class="dev-stat"><strong id="owned-count">0</strong><small>当前持有</small></div>
+          <div class="dev-stat"><strong id="cash-stat">500</strong><small>现金 C</small></div>
+        </div>
+        <div class="side-title">当前页面</div>
+        <div class="info-line"><span>路由</span><strong id="route-info">PG-10</strong></div>
+        <div class="info-line"><span>当前摊位</span><strong id="stall-info">未选择</strong></div>
+        <div class="info-line"><span>所选货品</span><strong id="product-info">未选择</strong></div>
+        <div class="side-title">API 替换点</div>
+        <div class="api-note"><b>固定摊位</b><code>GET /v1/stalls/{stall_id}</code></div>
+        <div class="api-note"><b>购买</b><code>POST /v1/stall-products/{id}/purchase</code></div>
+        <div class="api-note"><b>仓库</b><code>GET /v1/user/products</code></div>
+      </aside>
+    </div>
+  </body>
+</html>

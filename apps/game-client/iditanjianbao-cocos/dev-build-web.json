@@ -1,0 +1,14 @@
+{
+  "platform": "web-mobile",
+  "debug": true,
+  "name": "iditanjianbao-dev",
+  "outputName": "web-preview",
+  "buildPath": "project://build/web-preview",
+  "startScene": "1053b24d-1369-41fb-aff3-40ae949e6ad2",
+  "scenes": [
+    {
+      "url": "db://assets/Main.scene",
+      "uuid": "1053b24d-1369-41fb-aff3-40ae949e6ad2"
+    }
+  ]
+}

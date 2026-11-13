@@ -1,0 +1,27 @@
+{
+  "host": "127.0.0.1",
+  "port": 22784,
+  "portMode": "project",
+  "clientConfigEntries": {
+    "codex": {
+      "serverName": "cocos-iditanjianba-0b960b",
+      "url": "http://127.0.0.1:22784/mcp/project/0b960bc01eb929de938e9182/",
+      "configPath": "C:\\Users\\i-lik\\.codex\\config.toml",
+      "projectIdentity": "0b960bc01eb929de938e9182"
+    }
+  },
+  "toolProfile": "core",
+  "enabledTools": [],
+  "disabledTools": [],
+  "enabledToolCategories": [],
+  "disabledToolCategories": [],
+  "enableSessions": false,
+  "enableConsoleLogging": true,
+  "executeJavascriptSafetyChecks": true,
+  "autostart": true,
+  "maxInteractionLogEntries": 50,
+  "lastClientTargetId": "codex",
+  "activeToolProfileName": "",
+  "savedToolProfiles": [],
+  "language": "auto"
+}

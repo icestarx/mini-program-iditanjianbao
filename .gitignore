@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+coverage/
+.venv/
+.venv-*/
+__pycache__/
+.DS_Store
+Thumbs.db
+apps/game-client/temp/
+apps/game-client/library/
+apps/game-client/local/
+apps/game-client/build/
+apps/game-client/settings/v2/packages/project.json

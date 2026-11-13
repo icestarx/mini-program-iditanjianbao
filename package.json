@@ -1,0 +1,14 @@
+{
+  "name": "mini-program-iditanjianbao",
+  "private": true,
+  "packageManager": "pnpm@10.12.1",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev:api": "pnpm --filter @iditanjianbao/api-server start:dev",
+    "build:api": "pnpm --filter @iditanjianbao/api-server build",
+    "db:generate": "pnpm --filter @iditanjianbao/api-server prisma:generate",
+    "db:migrate": "pnpm --filter @iditanjianbao/api-server prisma:migrate"
+  }
+}
